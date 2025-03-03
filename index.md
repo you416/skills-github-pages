@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+NJU: Welcome to my blog
 ---
 
